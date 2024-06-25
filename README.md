@@ -14,6 +14,8 @@ Contiene dentro de la carpeta src la carpeta courses, que dentro contiene tres s
 La ruta principal es:  http://localhost:3000/ .
 Para entrar a la de course: http://localhost:3000/course . 
 
+Se incluye también la coleción de Postman. 
+
 ## Instalación
 
 ```bash
